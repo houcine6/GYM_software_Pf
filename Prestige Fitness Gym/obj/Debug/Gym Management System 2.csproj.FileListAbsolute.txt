@@ -1,0 +1,72 @@
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Debug\Gym Management System 2.exe.config
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Debug\Gym Management System 2.exe
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Debug\Gym Management System 2.pdb
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Debug\Gym_Management_System_2.Form1.resources
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Debug\Gym_Management_System_2.Properties.Resources.resources
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Debug\Gym Management System 2.csproj.GenerateResource.cache
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Debug\Gym Management System 2.csproj.CoreCompileInputs.cache
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Debug\Gym Management System 2.exe
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Debug\Gym Management System 2.pdb
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Debug\Gym Management System 2.csproj.CopyComplete
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Debug\Gym_Management_System_2.NewClientForm.resources
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Debug\Gym_Management_System_2.HomeScreenForm.resources
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Debug\ClientsDBv1.mdf
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Debug\ClientsDBv1_log.ldf
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Debug\Gym_Management_System_2.ClientListForm.resources
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Debug\ItemsDBv1.mdf
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Debug\ItemsDBv1_log.ldf
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Debug\Gym_Management_System_2.NewItemForm.resources
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Debug\StaffDBv1.mdf
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Debug\StaffDBv1_log.ldf
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Debug\Gym_Management_System_2.NewStaffForm.resources
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Debug\Gym_Management_System_2.SalesForm.resources
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Debug\SalesDBv1.mdf
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Debug\SalesDBv1_log.ldf
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Debug\Gym Management System 2.csproj.AssemblyReference.cache
+C:\Users\hadj said\source\repos\Gym Management System fr\bin\Debug\ClientsDBv1.mdf
+C:\Users\hadj said\source\repos\Gym Management System fr\bin\Debug\ClientsDBv1_log.ldf
+C:\Users\hadj said\source\repos\Gym Management System fr\bin\Debug\ItemsDBv1.mdf
+C:\Users\hadj said\source\repos\Gym Management System fr\bin\Debug\ItemsDBv1_log.ldf
+C:\Users\hadj said\source\repos\Gym Management System fr\bin\Debug\SalesDBv1.mdf
+C:\Users\hadj said\source\repos\Gym Management System fr\bin\Debug\SalesDBv1_log.ldf
+C:\Users\hadj said\source\repos\Gym Management System fr\bin\Debug\StaffDBv1.mdf
+C:\Users\hadj said\source\repos\Gym Management System fr\bin\Debug\StaffDBv1_log.ldf
+C:\Users\hadj said\source\repos\Gym Management System fr\bin\Debug\Gym Management System 2.exe.config
+C:\Users\hadj said\source\repos\Gym Management System fr\bin\Debug\Gym Management System 2.exe
+C:\Users\hadj said\source\repos\Gym Management System fr\bin\Debug\Gym Management System 2.pdb
+C:\Users\hadj said\source\repos\Gym Management System fr\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\hadj said\source\repos\Gym Management System fr\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\hadj said\source\repos\Gym Management System fr\obj\Debug\Gym Management System 2.csproj.AssemblyReference.cache
+C:\Users\hadj said\source\repos\Gym Management System fr\obj\Debug\Gym_Management_System_2.ClientListForm.resources
+C:\Users\hadj said\source\repos\Gym Management System fr\obj\Debug\Gym_Management_System_2.Form1.resources
+C:\Users\hadj said\source\repos\Gym Management System fr\obj\Debug\Gym_Management_System_2.HomeScreenForm.resources
+C:\Users\hadj said\source\repos\Gym Management System fr\obj\Debug\Gym_Management_System_2.NewClientForm.resources
+C:\Users\hadj said\source\repos\Gym Management System fr\obj\Debug\Gym_Management_System_2.NewItemForm.resources
+C:\Users\hadj said\source\repos\Gym Management System fr\obj\Debug\Gym_Management_System_2.NewStaffForm.resources
+C:\Users\hadj said\source\repos\Gym Management System fr\obj\Debug\Gym_Management_System_2.Properties.Resources.resources
+C:\Users\hadj said\source\repos\Gym Management System fr\obj\Debug\Gym_Management_System_2.SalesForm.resources
+C:\Users\hadj said\source\repos\Gym Management System fr\obj\Debug\Gym Management System 2.csproj.GenerateResource.cache
+C:\Users\hadj said\source\repos\Gym Management System fr\obj\Debug\Gym Management System 2.csproj.CoreCompileInputs.cache
+C:\Users\hadj said\source\repos\Gym Management System fr\obj\Debug\Gym Management System 2.csproj.CopyComplete
+C:\Users\hadj said\source\repos\Gym Management System fr\obj\Debug\Gym Management System 2.exe
+C:\Users\hadj said\source\repos\Gym Management System fr\obj\Debug\Gym Management System 2.pdb
+C:\Users\hadj said\source\repos\Prestige Fitness Gym\bin\Debug\Gym Management System 2.exe.config
+C:\Users\hadj said\source\repos\Prestige Fitness Gym\bin\Debug\Gym Management System 2.exe
+C:\Users\hadj said\source\repos\Prestige Fitness Gym\bin\Debug\Gym Management System 2.pdb
+C:\Users\hadj said\source\repos\Prestige Fitness Gym\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\hadj said\source\repos\Prestige Fitness Gym\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\hadj said\source\repos\Prestige Fitness Gym\obj\Debug\Gym_Management_System_2.ClientListForm.resources
+C:\Users\hadj said\source\repos\Prestige Fitness Gym\obj\Debug\Gym_Management_System_2.Form1.resources
+C:\Users\hadj said\source\repos\Prestige Fitness Gym\obj\Debug\Gym_Management_System_2.HomeScreenForm.resources
+C:\Users\hadj said\source\repos\Prestige Fitness Gym\obj\Debug\Gym_Management_System_2.NewClientForm.resources
+C:\Users\hadj said\source\repos\Prestige Fitness Gym\obj\Debug\Gym_Management_System_2.Properties.Resources.resources
+C:\Users\hadj said\source\repos\Prestige Fitness Gym\obj\Debug\Gym Management System 2.csproj.GenerateResource.cache
+C:\Users\hadj said\source\repos\Prestige Fitness Gym\obj\Debug\Gym Management System 2.csproj.CoreCompileInputs.cache
+C:\Users\hadj said\source\repos\Prestige Fitness Gym\obj\Debug\Gym Management System 2.csproj.CopyComplete
+C:\Users\hadj said\source\repos\Prestige Fitness Gym\obj\Debug\Gym Management System 2.exe
+C:\Users\hadj said\source\repos\Prestige Fitness Gym\obj\Debug\Gym Management System 2.pdb
+C:\Users\hadj said\source\repos\Prestige Fitness Gym\bin\Debug\ClientsDBv2.mdf
+C:\Users\hadj said\source\repos\Prestige Fitness Gym\bin\Debug\ClientsDBv2_log.ldf
+C:\Users\hadj said\source\repos\Prestige Fitness Gym\obj\Debug\Gym Management System 2.csproj.AssemblyReference.cache

@@ -1,0 +1,26 @@
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Release\ClientsDBv1.mdf
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Release\ClientsDBv1_log.ldf
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Release\ItemsDBv1.mdf
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Release\ItemsDBv1_log.ldf
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Release\StaffDBv1.mdf
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Release\StaffDBv1_log.ldf
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Release\Gym Management System 2.exe.config
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Release\Gym Management System 2.exe
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Release\Gym Management System 2.pdb
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\hadj said\source\repos\Gym Management System 2\bin\Release\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Release\Gym Management System 2.csproj.AssemblyReference.cache
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Release\Gym_Management_System_2.ClientListForm.resources
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Release\Gym_Management_System_2.Form1.resources
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Release\Gym_Management_System_2.HomeScreenForm.resources
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Release\Gym_Management_System_2.ItemsListForm.resources
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Release\Gym_Management_System_2.NewClientForm.resources
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Release\Gym_Management_System_2.NewItemForm.resources
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Release\Gym_Management_System_2.NewStaffForm.resources
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Release\Gym_Management_System_2.Properties.Resources.resources
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Release\Gym_Management_System_2.StaffListForm.resources
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Release\Gym Management System 2.csproj.GenerateResource.cache
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Release\Gym Management System 2.csproj.CoreCompileInputs.cache
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Release\Gym Management System 2.csproj.CopyComplete
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Release\Gym Management System 2.exe
+C:\Users\hadj said\source\repos\Gym Management System 2\obj\Release\Gym Management System 2.pdb
